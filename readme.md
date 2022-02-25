@@ -13,3 +13,5 @@ To run the guard watch run `bundle exec guard`. This will watch the project for 
 
 <br>
 To stop the watch type `q` in the terminal and then return. 
+
+![Example use](/demo.gif)
